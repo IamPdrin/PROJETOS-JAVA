@@ -17,5 +17,4 @@
     
     - Passo 1: Copie a URL do repositório (clicando no botão code<>);
     - Passo 2: No Eclipse, clique em File e, em seguida, na pasta GIT, selecione a opção Projects from Git > Clone, cole a URL e selecione next até fim do processo;
-    - Passo 3: Clique com o botão direito no projeto importado > Team > Synchronize Workspace;
-    - Passo 4:
+    - Passo 3: Clique com o botão direito no projeto importado > Team > Synchronize Workspace.
