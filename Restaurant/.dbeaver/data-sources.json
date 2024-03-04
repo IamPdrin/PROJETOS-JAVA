@@ -1,0 +1,35 @@
+{
+	"folders": {},
+	"connections": {
+		"sqlite_jdbc-18dde9c638a-76a594a5719b3b54": {
+			"provider": "sqlite",
+			"driver": "sqlite_jdbc",
+			"name": "bdpratos.db",
+			"save-password": true,
+			"configuration": {
+				"database": "C:\\Users\\Pichau\\eclipse-workspace\\Restaurant\\resources\\bdpratos.db",
+				"url": "jdbc:sqlite:C:\\Users\\Pichau\\eclipse-workspace\\Restaurant\\resources\\bdpratos.db",
+				"configurationType": "MANUAL",
+				"type": "dev",
+				"closeIdleConnection": true,
+				"auth-model": "native"
+			}
+		}
+	},
+	"connection-types": {
+		"dev": {
+			"name": "Desenvolvimento",
+			"color": "255,255,255",
+			"description": "Banco de dados de desenvolvimento",
+			"auto-commit": true,
+			"confirm-execute": false,
+			"confirm-data-change": false,
+			"smart-commit": false,
+			"smart-commit-recover": false,
+			"auto-close-transactions": true,
+			"close-transactions-period": 1800,
+			"auto-close-connections": true,
+			"close-connections-period": 3600
+		}
+	}
+}
